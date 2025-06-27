@@ -1,0 +1,4 @@
+li {display: flex; flex-flow: row nowrap; gap: 0; width: 100%; align-items: center; border-bottom: 1px solid #ccc;}
+li input {width: 3%; margin-right: 10px;}
+li span {width:calc(100% - 3% - 3%); padding: 15px 0; }
+li button {width: 3%;}
