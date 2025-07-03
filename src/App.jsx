@@ -1,9 +1,9 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+/* import { FontAwesomeIcon } from '@fortawesome/react-fontawesome' */
 /* 개별 폰트어썸 불러오기 */
 //import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
-import * as brands from '@fortawesome/free-brands-svg-icons'
+/* import * as brands from '@fortawesome/free-brands-svg-icons' */
 //import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
-import * as solid from '@fortawesome/free-solid-svg-icons'
+/* import * as solid from '@fortawesome/free-solid-svg-icons' */
 // 컴포넌트 호출
 import Header from './Header'
 import Todo from './Todo'
