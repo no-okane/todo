@@ -1,4 +1,4 @@
-# to-do-list UI 컴포넌트 만들기
+# to-do-list UI 컴포넌트 만들기1
 ### font awesome 연결
 ```
 npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/free-brands-svg-icons @fortawesome/react-fontawesome
